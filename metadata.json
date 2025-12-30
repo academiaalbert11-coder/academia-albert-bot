@@ -1,0 +1,8 @@
+{
+  "name": "Academia Albert",
+  "description": "Uma plataforma educacional moderna para gestão de cursos, estudantes e pagamentos integrada com Supabase.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
